@@ -1,0 +1,6 @@
+{
+  "name": "FrotaFácil",
+  "description": "Painel de controle e gestão de frota, serviços, despesas e relatórios de logística.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
